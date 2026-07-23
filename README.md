@@ -26,6 +26,15 @@
 
 ---
 
+### 🚀 Featured Project
+
+**[URL Shortener API](https://github.com/AfranUsmani/url-shortener-api)** — a production-grade REST service in **Java 21 · Spring Boot 3**: Base62 short codes from a DB sequence, **Redis cache-aside** reads, **Prometheus / Actuator** metrics, OpenAPI docs, Docker Compose, and GitHub Actions CI — backed by a full unit + integration test suite.
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/AfranUsmani/url-shortener-api)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=flat-square&logo=render&logoColor=white)](https://url-shortener-api.onrender.com/swagger-ui.html)
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
