@@ -12,17 +12,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Afran%20Usmani&fontSize=44&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16" alt="Afran Usmani — Backend Software Engineer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+%40+OfBusiness;Java+21+%C2%B7+Spring+Boot+%C2%B7+Microservices;Distributed%2C+event-driven+systems+at+scale;Kafka+%C2%B7+Redis+%C2%B7+PostgreSQL+%C2%B7+AWS;CodeChef+4%E2%98%85+%C2%B7+peak+rating+1807)](https://github.com/AfranUsmani)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=680&lines=Backend+Software+Engineer;Java+21+%C2%B7+Spring+Boot+%C2%B7+Microservices;Distributed%2C+event-driven+systems+at+scale;CodeChef+4%E2%98%85+%C2%B7+peak+rating+1807)](https://github.com/AfranUsmani)
 
 <a href="https://www.linkedin.com/in/afranusmani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:afraanusmani.121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:afranusmani.121@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.codechef.com/users/afranusmani"><img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 4 star" /></a>
 <a href="https://github.com/AfranUsmani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Distributed%20Systems%20roles-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Open to backend and distributed systems roles" />
-<img src="https://img.shields.io/badge/Based%20in-Gurugram,%20India-9ECE6A?style=for-the-badge&labelColor=1A1B27" alt="Based in Gurugram, India" />
+<img src="https://img.shields.io/badge/Work%20mode-Remote%20%C2%B7%20Relocation%20%C2%B7%20Anywhere-9ECE6A?style=for-the-badge&labelColor=1A1B27" alt="Open to remote, relocation, anywhere" />
 
 </div>
 
@@ -134,7 +134,7 @@ A REST service in **Java 21 · Spring Boot 3** that generates random, **unguessa
 I'm **open to backend & distributed-systems roles** and always happy to talk Java, Spring, and systems design.
 
 <a href="https://www.linkedin.com/in/afranusmani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:afraanusmani.121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:afranusmani.121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.codechef.com/users/afranusmani"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
