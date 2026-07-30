@@ -37,7 +37,7 @@ Backend engineer with **3+ years** shipping scalable, production-grade services 
 - 🌱 Previously **Backend Engineer Intern @ Spinny** — Python/Django services and GraphQL APIs.
 - 🎯 I care about **clean architecture**, **performance under production load**, and **observability** (metrics, tracing, sensible SLOs).
 - 🏆 **CodeChef 4★** — peak rating **1807**, top **3.5%** in India.
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/afranusmani/)** · **[afraanusmani.121@gmail.com](mailto:afraanusmani.121@gmail.com)**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/afranusmani/)** · **[afranusmani.121@gmail.com](mailto:afranusmani.121@gmail.com)**
 
 ---
 
